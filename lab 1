@@ -1,0 +1,64 @@
+1
+<html> 
+	<head>  
+		<title></title>                
+	</head>  
+	<body  bgcolor = yellow  text = blue >                                                              
+		<center>
+			<h1>Я Лісняк Максим Сергійович.</h1>
+			<hr width =500 size="" color="black">
+			<p>Народився 9 червня 2002р.  у м.Тернопіль.</p> 
+			<p>В 2017  році закінчив школу №9 м.Тернопіль.</p> 
+			<p>Моя адреса: <b><i>індекс, місто, вулиця,будинок,квартира.</b></i></p>  
+			<hr width =500 size="" color="black">			
+		</center>
+	</body>  
+</html>
+2
+<html> 
+	<head>  
+		<title></title>                
+	</head>  
+	<body  bgcolor = black  text = white >
+<left><b>Ця стоpінка створена</b> <i>Лісняк М.С</i></left>	
+		<center>
+			<hr width =500 size="" color=white>
+			<h1>Привіт!</h1>
+			<p>Я студент <i>групи</i></p> 
+			Я навчаюсь в <b>ТКТНТУ</b> на 3<sup>ому</sup> курсі факультету "<i>Електронних апаратів</i>" зі спеціальністю <i>КН</i>		
+			<lh> Улюблені предмети</lн>
+<font  face =Roman   size = color=>			
+			<ul  [type=circle]>
+			<li> Програмування
+			<li> Англ			
+			</ul>
+			</font>
+		</center>
+	</body>  
+</html>
+3
+<html> 
+	<head>  
+		<title></title>                
+	</head>  
+	<body  bgcolor = yellow  text = blue >                                                              
+		<center>
+			<h1>Я Лісняк Максим Сергійович.</h1>
+			<hr width =500 size="" color="black">
+			<p>Народився 9 червня 2002р.  у м.Тернопіль.</p> 
+			<p>В 2017  році закінчив школу №9 м.Тернопіль.</p> 
+			<lh>Моя сім'я</lh> 
+			<dl> 
+				<dt> Батько              
+					<dd> <i>Лісняк С.І.</i>                 
+				<dt> Мати              
+					<dd> <i>Лісняк Л.С</i>  
+				<dt> Брат              
+					<dd> <i>Лісняк Р.С.</i>  
+			</dl>  
+ 
+			<p>Моя адреса: <b><i>індекс, місто, вулиця,будинок,квартира.</b></i></p>  
+			<hr width =500 size="" color="black">			
+		</center>
+	</body>  
+</html>
